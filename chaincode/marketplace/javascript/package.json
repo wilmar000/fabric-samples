@@ -1,7 +1,7 @@
 {
-    "name": "realstate",
+    "name": "marketplace",
     "version": "1.0.0",
-    "description": "RealState contract implemented in JavaScript",
+    "description": "MarketPlace contract implemented in JavaScript",
     "main": "index.js",
     "engines": {
         "node": ">=8",
